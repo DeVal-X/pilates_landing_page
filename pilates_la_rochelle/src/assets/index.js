@@ -14,16 +14,15 @@ import facebook from "./facebook.svg";
 import instagram from "./instagram.svg";
 import linkedin from "./linkedin.svg";
 import twitter from "./twitter.svg";
-
-/*to stay */
-import big_t from "./big_t.jpg";
-import i_of_pilates from "./i_of_pilates.jpg";
-import man_pic1 from "./man_pic1.jpg";
-import t_of_pilates from "./t_of_pilates.jpg";
+/*stayin' */
+import big_t from "./big_t.jpg"
+import cropped_i_pilates from "./cropped_i_pilates.jpg"
+import man_pic1 from "./man_pic1.jpg"
+import t_of_pilates from "./t_of_pilates.jpg"
 
 export {
   /*to be deleted */
-   logo,
+  logo,
   quotes,
   send,
   shield,
@@ -38,10 +37,9 @@ export {
   instagram,
   linkedin,
   twitter,
-
-  /*to stay */
+  /*stayin' */
   big_t,
-  i_of_pilates,
+  cropped_i_pilates,
   man_pic1,
   t_of_pilates,
 };

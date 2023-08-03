@@ -1,4 +1,4 @@
-import { people01, people02, people03, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star  } from "../assets";
+import { facebook, instagram, linkedin, twitter, send, shield, star  } from "../assets";
 
 export const navLinks = [
   {
@@ -27,6 +27,7 @@ export const navLinks = [
   },
 ];
 
+/*
 export const features = [
   {
     id: "feature-1",
@@ -203,3 +204,4 @@ export const clients = [
     logo: dropbox,
   },
 ];
+*/
