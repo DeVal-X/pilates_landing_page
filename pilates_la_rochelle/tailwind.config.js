@@ -21,7 +21,8 @@ export default {
 
         whiteSmoke: "#F5F5F5", /*245, 245, 245 */
         selectiveYellow: "#FFB300", /*255, 179, 0 */
-        pigmentGreen: "#4CAF50" /*76, 175, 80    / blue:18, 181, 156 */
+        pigmentGreen: "#4CAF50", /*76, 175, 80    / blue:18, 181, 156 */
+        transparantNavbar: "rgba(76, 175, 80, 1)"
       },
       fontFamily: {
         poppins: ["Poppins", "sans-serif"],
