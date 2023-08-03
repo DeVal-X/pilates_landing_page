@@ -1,12 +1,6 @@
-import airbnb from "./airbnb.png";
-import bill from "./bill.png";
-import binance from "./binance.png";
-import card from "./card.png";
-import coinbase from "./coinbase.png";
-import dropbox from "./dropbox.png";
+/*to be deleted */
 import logo from "./logo.svg";
 import quotes from "./quotes.svg";
-import robot from "./robot.png";
 import send from "./Send.svg";
 import shield from "./Shield.svg";
 import star from "./Star.svg";
@@ -20,20 +14,17 @@ import facebook from "./facebook.svg";
 import instagram from "./instagram.svg";
 import linkedin from "./linkedin.svg";
 import twitter from "./twitter.svg";
-import people01 from "./people01.png";
-import people02 from "./people02.png";
-import people03 from "./people03.png";
+
+/*to stay */
+import big_t from "./big_t.jpg";
+import i_of_pilates from "./i_of_pilates.jpg";
+import man_pic1 from "./man_pic1.jpg";
+import t_of_pilates from "./t_of_pilates.jpg";
 
 export {
-  airbnb,
-  bill,
-  binance,
-  card,
-  coinbase,
-  dropbox,
-  logo,
+  /*to be deleted */
+   logo,
   quotes,
-  robot,
   send,
   shield,
   star,
@@ -47,7 +38,10 @@ export {
   instagram,
   linkedin,
   twitter,
-  people01,
-  people02,
-  people03,
+
+  /*to stay */
+  big_t,
+  i_of_pilates,
+  man_pic1,
+  t_of_pilates,
 };
