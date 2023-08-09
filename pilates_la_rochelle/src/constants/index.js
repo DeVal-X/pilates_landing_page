@@ -1,7 +1,7 @@
 import { facebook, instagram, linkedin, twitter, send, shield, star  } from "../assets";
 
+/*onglet de navigation */
 export const navLinks = [
-  /*onglet de navigation */
   {
     id: "accueil",
     title: "Accueil",
@@ -28,17 +28,17 @@ export const navLinks = [
   },
 ];
 
-export const hero = [
-  /* Introduction du site */
+/* Introduction du site */
+export const heroText = [
   {
     id:"intro",
     title:"Intro",
-    content:"Découvrez le Pilates, une discipline qui allie harmonie du corps et sérénité de l'esprit. Plongez dans un univers où chaque mouvement est pensé pour nourrir votre bien-être dans sa globalité. Notre approche holistique vous invite à renforcer votre corps tout en cultivant une connexion profonde avec vous-même. Laissez-vous guider vers une vie équilibrée et épanouissante grâce aux bienfaits durables du Pilates.",
+    content:"Découvrez le Pilates, Une discipline qui allie harmonie du corps et sérénité de l'esprit. Plongez dans un univers où chaque mouvement est pensé pour nourrir votre bien-être dans sa globalité. Notre approche holistique vous invite à renforcer votre corps tout en cultivant une connexion profonde avec vous-même. Laissez-vous guider vers une vie équilibrée et épanouissante grâce aux bienfaits durables du Pilates.",
   },
 ];
 
+/*les objectifs pilates et pilates flow */
 export const objectives =[
-  /*les objectifs pilates et pilates flow */
   {
     id: "pilates",
     title: "Les objectifs du pilates",
@@ -145,8 +145,8 @@ export const objectives =[
   }
 ];
 
+/*informations sur les cours de pilates et pilates flow*/
 export const lessons =[
-  /*informations sur les cours de pilates et pilates flow*/
   {
     id: "pilates",
     title: "Nos cours :",
@@ -167,8 +167,8 @@ export const lessons =[
   },
 ];
 
+/*lieux des cours de pilates et pilates flow*/
 export const location =[
-  /*lieux des cours de pilates et pilates flow*/
   {
     id: "lieu",
     title: "Lieu",
@@ -177,8 +177,8 @@ export const location =[
   },
 ];
 
+/*emploi du temps des cours de pilates et pilates flow */
 export const schedule =[
-  /*emploi du temps des cours de pilates et pilates flow */
   {
     id: "pilates",
     title: "Horaire pilates",
@@ -213,8 +213,8 @@ export const schedule =[
   }
 ];
 
+/*tarifs des cours et abonnements */
 export const pricing =[
-  /*tarifs des cours et abonnements */
   {
     id:"option-1",
     title:"Abonnement annuel",
@@ -241,22 +241,39 @@ export const pricing =[
   },
 ];
 
+/*Informations sur le professeur, christine velluet */
 export const teacher =[
-  /*Informations sur le professeur, christine velluet */
   {
     id: "teacher",
     info:"L'enseignement des cours de Pilates est assuré par Christine Velluet, professeur de Danse diplômée d'état et professeur de Pilates certifiée, formatrice Pilates dans un Centre de formation Professionnelle, diplômée d'État des ministères de la Culture et Jeunesse et Sports: Carte N°01716ED0018."
   }
 ];
 
+/*information de contact */
 export const contact =[
-  /*information de contact */
   {
     id:"contact",
     phone: "06 50 52 49 07",
     mail: "christine@pilateslarochelle.com",
   }
 ];
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 /*
 export const features = [

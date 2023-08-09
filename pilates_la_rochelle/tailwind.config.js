@@ -26,6 +26,7 @@ export default {
       },
       fontFamily: {
         poppins: ["Poppins", "sans-serif"],
+        amatic: ["Amatic SC", "cursive"],
       },
     },
     screens: {
